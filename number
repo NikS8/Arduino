@@ -2,9 +2,9 @@
 28FF727C0117050A  TT in
                   TT out
 
-28FFEC3D0117042E  BR in
-28FFE6B8211704BF  BR out
-                  BR
+28FFEC3D0117042E  BR out
+28FFE6B8211704BF  BR in
+28FFD734C11604DE  BR
                   
 28FF69250117054D  BD out
                   BD
@@ -18,7 +18,7 @@
 28FF14170117035E  TA lower near
 
 28ff3a0601170430  Kollektor
-28ff51bda1160538  Kollektor
+28ff51bda1160538  Kollektor in
 28ffb1c3b4160520  Kollektor
 28ff69ab01170581  Kollektor
 28ff3a0601170430  Kollektor
